@@ -1,2 +1,2 @@
 # IoTHouseMonitor
-House Monitor
+House Monitor Prototype
